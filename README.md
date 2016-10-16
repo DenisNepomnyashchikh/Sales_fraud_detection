@@ -5,7 +5,7 @@
 * Outliers
 * Find out most similar products
 
-# Surervised learning
+# Supervised learning
 * Evaluation criteria (Precision & Recall)
 * AdaBoost and Gradient Boost
 * Logistic regression
